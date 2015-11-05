@@ -1,4 +1,10 @@
 1. A code repository is used to store programming source code and related documents. 
-The two types of repositories used are local repository such as Git or Mercurial, and online repository Github or Bitbucket. 
+The two types of repositories used are local repository such as Git or Mercurial, 
+and online repository Github or Bitbucket. 
 The repositories use version control to document and manage changes that are made to a program. 
 
+2. It is advantageous to use code repository as it provides efficient collaboration of work between users or workers.
+This is because it allows users to work on the same program while keeping a copy of the work done and every change by each user,
+meaning work does not get lost or overwritten and users could work together to decide what revisions should be made.
+It is also a benefit as it allows for social coding which means a public profile could be built among other users,
+this could then be used on CV’s to show to potential employers to track the profile and projects worked on. 
