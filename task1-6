@@ -3,8 +3,22 @@ The two types of repositories used are local repository such as Git or Mercurial
 and online repository Github or Bitbucket. 
 The repositories use version control to document and manage changes that are made to a program. 
 
+
+
 2. It is advantageous to use code repository as it provides efficient collaboration of work between users or workers.
 This is because it allows users to work on the same program while keeping a copy of the work done and every change by each user,
 meaning work does not get lost or overwritten and users could work together to decide what revisions should be made.
 It is also a benefit as it allows for social coding which means a public profile could be built among other users,
 this could then be used on CV’s to show to potential employers to track the profile and projects worked on. 
+
+
+
+3. There are three types of software layers which exist on a typical computer. 
+One is the operating system, this is the most fundamental as it controls the internal operations of a computer’s hardware,
+allowing programs to run on the computer and data to be stored or retrieved from certain hardware or storage devices.
+The second layer is utility programs, this performs specialised tasks to improve a computer’s operation and safeguard data.
+The third layer is software development tools, this is what programmers use to build software through creating, 
+modifying and testing. 
+These types of programs include assemblers, compilers and interpreters. 
+
+
