@@ -1,11 +1,17 @@
 
 1. "Hello World"
 
-2.
 
-3. 
 
-4.
+2. print ("Hello world i am in my ISD class right now")
+
+
+
+3. yourname = input("Hi there, what is your name?")
+
+
+
+4. mynumber = int(input("Please enter a number"))
 
 
 
