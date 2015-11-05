@@ -1,3 +1,5 @@
+
+
 1. A code repository is used to store programming source code and related documents. 
 The two types of repositories used are local repository such as Git or Mercurial, 
 and online repository Github or Bitbucket. 
@@ -27,6 +29,10 @@ These types of programs include assemblers, compilers and interpreters.
 in order carry outan action or solve a problem.
 This is a very useful tool as it provides a guideline in how to translate human problems into a computer program
 which can then be used to solve specific problems that occur.
+
+
+
+5. 1) Get Eggs
 
 
 
